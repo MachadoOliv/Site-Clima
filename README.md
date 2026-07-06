@@ -23,5 +23,5 @@ A responsive and dynamic web application that allows users to check the current 
 📌 Images of the App Working
 
 
-<img width="475" height="682" alt="Captura de tela 2026-07-06 160329" src="https://github.com/user-attachments/assets/c082bc66-bce2-4998-8e08-55fa9de779a8" />
 <img width="863" height="460" alt="Captura de tela 2026-07-06 160315" src="https://github.com/user-attachments/assets/80ac43f1-7a81-4c2f-a883-8c182f4f2e63" />
+<img width="475" height="682" alt="Captura de tela 2026-07-06 160329" src="https://github.com/user-attachments/assets/c082bc66-bce2-4998-8e08-55fa9de779a8" />
